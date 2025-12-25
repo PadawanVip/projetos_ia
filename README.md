@@ -4,11 +4,6 @@
   <h1>IA Mentor de Carreira: Simulando Entrevista</h1>
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=DIO&message=Education&color=E94D5F&labelColor=202024" alt="DIO Badge"/>
-  <img src="https://img.shields.io/static/v1?label=Nível&message=Básico&color=E94D5F&labelColor=202024" alt="Nível"/>
-</p>
-
 ---
 
 ## 💻 Sobre o Projeto
